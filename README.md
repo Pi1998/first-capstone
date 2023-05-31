@@ -158,7 +158,8 @@ If you like this project, please support me.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank to the Microverse community along with friends and family for the continuous support.
+- I would like to thank to the Microverse community along with friends and family for the continuous support.
+- I also give credit to [Cindy Shinn](https://www.behance.net/adagio07), the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the template of this design. ([Creative Commons License](https://creativecommons.org/licenses/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
